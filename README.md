@@ -5,4 +5,4 @@ The models include
 2) Decision Tree Classification
 3) SVM classification using 'rbf' kernel
 
-Note: the score value (accuracy) of all the models is same because of small size of the test set 
+
